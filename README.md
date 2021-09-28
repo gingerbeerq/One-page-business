@@ -1,1 +1,1 @@
-# One-page-full-website-project-for-practice
+# One-page-business

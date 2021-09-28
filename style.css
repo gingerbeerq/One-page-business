@@ -201,7 +201,7 @@ p{
 
 /*Hero Section*/
 #hero{
-    background-image: url(/img/hero-bg.jpg);
+    background-image: url(./img/hero-bg.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
@@ -578,7 +578,7 @@ p{
         padding: 20px 60px;
     }
     h1.section-title{
-        font-size: 6rem;
+        font-size: 5rem;
     }
     /* Hero */
     #hero h1{
